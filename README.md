@@ -12,8 +12,10 @@ A brief description of your project goes here. Explain what the project does, it
 
 ## Background and Overview
 
-- Feature 1: Brief description
-- Feature 2: Brief description
+Glory Elijah is a Nigerian content creator who reviews and comments on reality TV shows. She has a YouTube channel called 'Framkly Speaking with Glory Elijah'. The channel focuses on reviewing and commenting on entertainment shows such as _Big Brother Naija_ and _Big Brother Mzansi_, _The Real Housewives of Lagos_, _Young Famous and African_, etc, movies and trending topics on social media.
+
+Insights and recommendations are provided on the following key points:
+
 
 ## Data Structure Overview
 
