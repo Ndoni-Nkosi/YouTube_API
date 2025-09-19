@@ -21,8 +21,8 @@ Insights and recommendations are provided on the following key points:
 - **Video upload trend analysis**: An analysis on how many video uploads in the different Big Brother seasons
 
 <sub>PowerBI dashboard can be downloaded here</sub><br/>
-The YouTube video on data collection, data cleaning and data manipulation can be found here
-The Python script can be found here
+<sub>The YouTube video on data collection, data cleaning and data manipulation can be found here</sub><br/>
+<sub>The Python script can be found here</sub><br/>
 
 ## Data Structure Overview
 
