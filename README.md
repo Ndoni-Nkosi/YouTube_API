@@ -16,6 +16,9 @@ Glory Elijah is a Nigerian content creator who reviews and comments on reality T
 
 Insights and recommendations are provided on the following key points:
 
+- **Views trend analysis**: An analysis on the historical views patterns in the channel and which genres perform best
+- **Best performing videos**: An anlysis on the videos that have the highest number of views
+- **Video upload trend analysis**: An analysis on how many video uploads in the different Big Brother seasons
 
 ## Data Structure Overview
 
