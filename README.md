@@ -32,13 +32,13 @@ During a process of data cleaning and data manipulation, additional columns are 
 
 ## Executive Summary
 
-- ujjngoidrg
--  bgsdiufio
+Glory's channel was established in 2017, her channel only peaked in the year 2020. Her number of views have been dropping since 2021. 
 
 ## Insights Deep Dive
 
-- jgjiorgopr
-- gbifaoidpoa
+- quantified value
+- business metric
+- simple story about historical trend
 
 ## Recommendations
 
