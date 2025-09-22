@@ -27,7 +27,7 @@ Insights and recommendations are provided on the following key points:
 ## Data Structure Overview
 
 The data was collected with the use of a YouTube API in a python script. It extracts one table with the following columns, video_id, channelTitle, title, publish date, viewCount, likeCount, commentCount, and duration. The table consists of over 3000 rows.</br>
-During a process of data cleaning and data manipulation, additional columns are added to improve data storytelling such as duration in seconds, subscribers, Name_check to categoprise the different BB seasons.
+During a process of data cleaning and data manipulation, additional columns are added to improve data storytelling such as duration in seconds, subscribers, Name_check to categoprise the different BB seasons.</br>
 <img width="239" height="216" alt="image" src="https://github.com/user-attachments/assets/1b1a3c74-82d9-4008-8b75-acef226869e1" />
 
 
