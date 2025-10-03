@@ -45,7 +45,11 @@ An overview of the data is that Glory's channel was created in 2017. Since then 
 
 **Best performing videos**: The graph on the bottom left shows the top 5 videos in the entire channel. It looks like the videos with most views were from the reveiews of BBN Season 6, with the top video having over half a million views. This also aligns with the top right graph where we see most viewCounts in the year 2021. It is also evident in the graph that the best performing videos are related to the title of the video. There is a positive relationship with the name of the video and how many subscribers will click on the video. Action words such as fight, caught, smash, etc result in more traffic on the channel. Viewers love a bit of drama and seduction in the BB house.
 
-**Does the duration of the video have an impact on the number of views one gets?** According to the graph on the bottom right we see no relationship between the two variables. The longest videos are created when Glory does reviews on BB reunions and their average views is low at 36k. Whereas on average her videos are 2k seconds she gets a fair amount of views on average. 
+**Does the duration of the video have an impact on the number of views one gets?** According to the graph on the bottom right we see no relationship between the two variables. The longest videos are created when Glory does reviews on BB reunions and their average views is low at 36k. Whereas on average her videos are between 1k-2k seconds she gets a fair amount of views on average. 
+
+**Top videos**: The graph on the bottom left shows the top 5 videos in the playlist. Her highest number of views is from BBNaija Shine Ya Eye Season in 2021 with half a billion views. There is a positive realtionship between the title of the video and the number of views it gets. Most viewers click on the video based on what the title of the video is. Viewers may click the video for different reasons such as:
+- Their favourite housemate's name on the title
+- Words like 'drama', 'fight', 'shipping', 'kiss' cause fans of the show want to click the video and find out what transpired in the Big Brother House
 
 Conclusion:
 - It looks like Glory's subscribers and non-subscribers seem to enjoy and engage more on BBN seasons compared to BBM seasons. BBN seasons have more views that BBM. All BBM seasons didn't perform well, but only when BB Titans was introduced then views increased, which could prove that the Nigerian audience is greater than the South African audience on Glory's channel.
