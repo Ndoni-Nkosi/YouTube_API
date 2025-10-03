@@ -51,15 +51,14 @@ An overview of the data is that Glory's channel was created in 2017. Since then 
 - Their favourite housemate's name on the title
 - Words like 'drama', 'fight', 'shipping', 'kiss' cause fans of the show want to click the video and find out what transpired in the Big Brother House
 
+
+## Recommendations
+
 Conclusion:
 - It looks like Glory's subscribers and non-subscribers seem to enjoy and engage more on BBN seasons compared to BBM seasons. BBN seasons have more views that BBM. All BBM seasons didn't perform well, but only when BB Titans was introduced then views increased, which could prove that the Nigerian audience is greater than the South African audience on Glory's channel.
 - or just simply that the audience prefers BB shows where there are Nigerain contestants
 - There is a positive realtionship in the title of the video and how many views it will get
 - There is no relationship (correlation) between the length of the video and views
-## Recommendations
-
-- hbdfjai
-- sarasyasl
 
 ## Contact
 
