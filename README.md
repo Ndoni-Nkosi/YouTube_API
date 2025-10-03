@@ -60,6 +60,9 @@ Conclusion:
 - There is a positive realtionship in the title of the video and how many views it will get
 - There is no relationship (correlation) between the length of the video and views
 
+Recommendations:
+There's a lesser audience watching BBM review videos compared to BBN review videos. 
+
 ## Contact
 
 Please contact me on ...
