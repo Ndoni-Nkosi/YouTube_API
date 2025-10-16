@@ -36,7 +36,8 @@ During a process of data cleaning and data manipulation, additional columns were
 
 FSWG was established in 2017 and started getting traction in 2019 when she started uploading Big Brother review videos, then finally peaked in the year 2020. <br/>
 Glory's audience engages more on Big Brother Naija (BBN) seasons compared to Big Brother Mzansi (BBM) seasons - TRY ADDING A METRIC <br/>
-The titles of her videos help her gain traffic to her channel, which improves her viewCount. These Key Performance Indicators are discussed further in the report; and key improvement areas for the continuation of the channel are discussed as well. <br/>
+The titles of her videos help her gain traffic to her channel, which improves her viewCount.<br/>
+The overall cahnnel performs well during the two BB seasons (South Africa and Nigeria). These Key Performance Indicators are discussed further in the report; and key improvement areas for the continuation of the channel are discussed as well. <br/>
 
 Below is an overview of the Power BI dashboard and additional graphs are included in the report. <br/>
 
@@ -46,11 +47,25 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 ## Insights Deep Dive
 
 
-An overview of the data is that Glory's channel was created in 2017. Since then there have been over 3K video uploads, over 355k subscribers and over 116 million views. There has been a lot of egagemnt on her videos where there has been more that 4 million likes and 893k comments.</br>
+An overview of the data is that Glory's channel was created in 2017. Since then there have been over 3K video uploads to date, 359 000 subscribers and over 116 million views. There has been a lot of egagemnt on her videos where there has been more that 4 million likes and 893k comments.</br>
 
-**Video upload trend analysis**: According to the graph on the top left corner we see that the Other category has more video uploads amounting to 691. The other category is made up of shows that are not BB related. The least number of uploads is in the BBM seasons. This could be because there is a language barrier as BB housemates tend to to speak vernacular, which are languages that Glory does not understand as she is Nigerian. This makes ikt difficult for her to review the BBM seasons. A summarized snapshot of BBM seasons vs views has been shown below and we see that the numbers of views are decreasing since BBM returned where BBM Season was a hit vs the other seasons (Give a recommendation as this should improve in future).</br>
+**Views trend analysis**: 
+- Since the creation of the channel in 2017 the channel views started increasing in July 2019 with views from 17 799 in June 2019 to 625 942 in July 2019.The channel made its first peak in July 2020 on the launch of Big Brother Naija Season 5. This was a Covid period where peoplew were encouraged to stay home (indoors)
+- We notice a trend during BB seasons that views increase at the start and peak of the show then drop again towards the end of the show.
+- Every year from 2021 the channel views peak in August during the BBN seasons
+- Since BBN aires from July to October we see a drop in views for the remaining months of the year. But, from 2022 there was a shift in views when Glory started uploading videos on the relaunched BBM Season 3.
+- This means that the FSWG channel gets high views in the months of Jan to April (BBM seasons) and July to October (BBN seasons)
 
-**Views trend analysis**: The graph on the top right shows us that since channel craetion date the channel peaked in the year 2020, during the reviews for BBN Season 5. The peak in views was due to Covid as a lot of people had to be indoors, so a lot of us watched a lot of television. The highest number of views was in BBN Season 6 in the year 2021. There is an occurrence of views peaking during the BBN seasons, especially for the uoploads in August. The channle did well during BBN season reviews (July-October). We notice a peak in views in a non-BBN season in 2022 (Jan-April), which is where BBM was back on people's screens with BBM Season 3. In 2023 January ther was a peak again where there was BB Titans, where there were Nigerain and South African contestants (Jan-April)</br>
+<img width="957" height="166" alt="image" src="https://github.com/user-attachments/assets/86bcff49-998e-49a4-90e1-a12eaf042e63" />
+
+
+The graph on the top right shows us that since channel craetion date the channel peaked in the year 2020, during the reviews for BBN Season 5. The peak in views was due to Covid as a lot of people had to be indoors, so a lot of us watched a lot of television. The highest number of views was in BBN Season 6 in the year 2021. There is an occurrence of views peaking during the BBN seasons, especially for the uoploads in August. The channle did well during BBN season reviews (July-October). We notice a peak in views in a non-BBN season in 2022 (Jan-April), which is where BBM was back on people's screens with BBM Season 3. In 2023 January ther was a peak again where there was BB Titans, where there were Nigerain and South African contestants (Jan-April)</br>
+
+**Video upload trend analysis**: 
+
+According to the graph on the top left corner we see that the Other category has more video uploads amounting to 691. The other category is made up of shows that are not BB related. The least number of uploads is in the BBM seasons. This could be because there is a language barrier as BB housemates tend to to speak vernacular, which are languages that Glory does not understand as she is Nigerian. This makes ikt difficult for her to review the BBM seasons. A summarized snapshot of BBM seasons vs views has been shown below and we see that the numbers of views are decreasing since BBM returned where BBM Season was a hit vs the other seasons (Give a recommendation as this should improve in future).</br>
+
+
 
 **Best performing videos**: The graph on the bottom left shows the top 5 videos in the entire channel. It looks like the videos with most views were from the reveiews of BBN Season 6, with the top video having over half a million views. This also aligns with the top right graph where we see most viewCounts in the year 2021. It is also evident in the graph that the best performing videos are related to the title of the video. There is a positive relationship with the name of the video and how many subscribers will click on the video. Action words such as fight, caught, smash, etc result in more traffic on the channel. Viewers love a bit of drama and seduction in the BB house.
 
