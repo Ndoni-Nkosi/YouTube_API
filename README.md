@@ -1,5 +1,5 @@
 # YouTube API project
-A brief description of your project goes here. Explain what the project does, its purpose, and any relevant background information.
+Big Brother is a reality show where contestants live in a house where they are constantly surveillanced and voted out by viewers in the end to win a cash prize. It is a show that has hit Africa by storm since its launch. Contestants come into the house and play whichever strategy they think will work for them to be the 'last man standing.' Strategies commonly played by contestants include, causing drama (conflict), creating alliances, being the chef or stylist of the house, start a romantic relationship with a fellow housemate ('shipping'), etc. It is popularly known for its drama and tests out social dynamics. The YouTube_API project aims to analyse data from one of the most viewed Big Brother reviewers/commentaries Frankly Speaking with Glory Elijah in Africa.
 
 ## Table of Contents
 
@@ -12,12 +12,12 @@ A brief description of your project goes here. Explain what the project does, it
 
 ## Background and Overview
 
-Glory Elijah is a Nigerian content creator who reviews and comments on reality TV shows. She has a YouTube channel called 'Framkly Speaking with Glory Elijah'. The channel focuses on reviewing and commenting on entertainment shows such as _Big Brother Naija_ and _Big Brother Mzansi_, _The Real Housewives of Lagos_, _Young Famous and African_, etc, movies and trending topics on social media.
+Glory Elijah is a Nigerian content creator who reviews and comments on reality TV shows. She has a YouTube channel called 'Frankly Speaking with Glory Elijah'. The channel focuses on reviewing and commenting on entertainment shows such as _Big Brother Naija_ and _Big Brother Mzansi_, _The Real Housewives of Lagos_, _Young Famous and African_, etc, movies and trending topics on social media.
 
 Insights and recommendations are provided on the following key points:
 
-- **Views trend analysis**: An analysis on the historical views patterns in the channel and which genres perform best
-- **Best performing videos**: An anlysis on the videos that have the highest number of views
+- **Views trend analysis**: An analysis on the historical views patterns in the channel and which genres/categories perform best
+- **Best performing videos**: An analysis on the videos that have the highest number of views
 - **Video upload trend analysis**: An analysis on how many video uploads in the different Big Brother seasons
 
 <sub>PowerBI dashboard can be downloaded here</sub><br/>
@@ -25,8 +25,8 @@ Insights and recommendations are provided on the following key points:
 
 ## Data Structure Overview
 
-The data was collected with the use of a YouTube API in a python script. It extracts one table with the following columns, video_id, channelTitle, title, publish date, viewCount, likeCount, commentCount, and duration. The table consists of over 3000 rows.</br>
-During a process of data cleaning and data manipulation, additional columns are added to improve data storytelling such as duration in seconds, subscribers, Name_check to categoprise the different BB seasons.</br>
+The data was collected with the use of a YouTube API in Python. It extracted one table with the following columns, video_id, channelTitle, title, publish date, viewCount, likeCount, commentCount, and duration. The table consists of over 3000 rows.</br>
+During a process of data cleaning and data manipulation, additional columns were added to improve data storytelling such as duration in seconds, subscribers, Name_check to categorise the different Big Brother seasons.</br>
 <img width="239" height="216" alt="image" src="https://github.com/user-attachments/assets/1b1a3c74-82d9-4008-8b75-acef226869e1" /><br/>
 <sub>The YouTube video on data collection, data cleaning and data manipulation can be found here</sub><br/>
 
