@@ -27,12 +27,15 @@ Insights and recommendations are provided on the following key points:
 
 The data was collected with the use of a YouTube API in Python. It extracted one table with the following columns, video_id, channelTitle, title, publish date, viewCount, likeCount, commentCount, and duration. The table consists of over 3000 rows.</br>
 During a process of data cleaning and data manipulation, additional columns were added to improve data storytelling such as duration in seconds, subscribers, Name_check to categorise the different Big Brother seasons.</br>
-<img width="239" height="216" alt="image" src="https://github.com/user-attachments/assets/1b1a3c74-82d9-4008-8b75-acef226869e1" /><br/>
+<img width="392" height="211" alt="image" src="https://github.com/user-attachments/assets/1fd59054-2a52-4069-8e79-c551093e4be2" /><br/>
 <sub>The YouTube video on data collection, data cleaning and data manipulation can be found here</sub><br/>
 
 ## Executive Summary
 
-Glory's channel was established in 2017, her channel only peaked in the year 2020. Her number of views have been dropping since 2021. 
+FSWG was established in 2017 and started getting traction in 2019 when she started uploading Big Brother review videos, then finally peaked in the year 2020. <br/>
+Glory's audience engages more on Big Brother Naija (BBN) seasons compared to Big Brother Mzansi (BBM) seasons - TRY ADDING A METRIC <br/>
+The titles of her videos help her gain traffic to her channel, which improves her viewCount
+
 
 ## Insights Deep Dive
 
