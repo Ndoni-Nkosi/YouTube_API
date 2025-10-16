@@ -27,14 +27,20 @@ Insights and recommendations are provided on the following key points:
 
 The data was collected with the use of a YouTube API in Python. It extracted one table with the following columns, video_id, channelTitle, title, publish date, viewCount, likeCount, commentCount, and duration. The table consists of over 3000 rows.</br>
 During a process of data cleaning and data manipulation, additional columns were added to improve data storytelling such as duration in seconds, subscribers, Name_check to categorise the different Big Brother seasons.</br>
+
 <img width="392" height="211" alt="image" src="https://github.com/user-attachments/assets/1fd59054-2a52-4069-8e79-c551093e4be2" /><br/>
+
 <sub>The YouTube video on data collection, data cleaning and data manipulation can be found here</sub><br/>
 
 ## Executive Summary
 
 FSWG was established in 2017 and started getting traction in 2019 when she started uploading Big Brother review videos, then finally peaked in the year 2020. <br/>
 Glory's audience engages more on Big Brother Naija (BBN) seasons compared to Big Brother Mzansi (BBM) seasons - TRY ADDING A METRIC <br/>
-The titles of her videos help her gain traffic to her channel, which improves her viewCount
+The titles of her videos help her gain traffic to her channel, which improves her viewCount. These Key Performance Indicators are discussed further in the report; and key improvement areas for the continuation of the channel are discussed as well. <br/>
+
+Below is an overview of the Power BI dashboard and additional graphs are included in the report. <br/>
+
+<img width="1316" height="737" alt="image" src="https://github.com/user-attachments/assets/acd9138e-d91d-4256-82f7-b434469c32df" />
 
 
 ## Insights Deep Dive
