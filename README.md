@@ -66,6 +66,11 @@ An overview of the data is that Glory's channel was created in 2017. Since then 
 
 <img width="916" height="552" alt="image" src="https://github.com/user-attachments/assets/c08527d4-dd09-418e-8cf5-d8f098e32da6" />
 
+**Top videos**:
+- The most viewed videos are from BBN Season 6 with the highest view count of 532 347 - use % representation.
+- When BB seasons are over the most viewed videos in the 'Other' category is 'who is Big Brother?' at 212 164 followed by _Acrimony_ movie review at 133 854 views
+- After BB seasons Glory does commentaries on the after BB life of housemates, movie reviews and trending reality shows such as _The real housewives of Lagos_.
+
 
 **Best performing videos**: The graph on the bottom left shows the top 5 videos in the entire channel. It looks like the videos with most views were from the reveiews of BBN Season 6, with the top video having over half a million views. This also aligns with the top right graph where we see most viewCounts in the year 2021. It is also evident in the graph that the best performing videos are related to the title of the video. There is a positive relationship with the name of the video and how many subscribers will click on the video. Action words such as fight, caught, smash, etc result in more traffic on the channel. Viewers love a bit of drama and seduction in the BB house.
 
@@ -78,6 +83,7 @@ An overview of the data is that Glory's channel was created in 2017. Since then 
 
 ## Recommendations
 - Glory should try to upload more videos during the BBM seasons as there is a positive relationship between the total number of uploads and total views. More uploads result in more views. This will in turn increase he viewer base during those seasons.
+- Since the channel has low views after the Big Brother seasons, Glory can improve her views in those months by uploading commentary videos on trending movies (movies that are being watched by the masses), and more Netflix shows since the views are high for her reviews on Netflix shows.
 
 Conclusion:
 - It looks like Glory's subscribers and non-subscribers seem to enjoy and engage more on BBN seasons compared to BBM seasons. BBN seasons have more views that BBM. All BBM seasons didn't perform well, but only when BB Titans was introduced then views increased, which could prove that the Nigerian audience is greater than the South African audience on Glory's channel.
