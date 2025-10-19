@@ -19,6 +19,7 @@ Insights and recommendations are provided on the following key points:
 - **Views trend analysis**: An analysis on the historical views patterns in the channel and which genres/categories perform best
 - **Best performing videos**: An analysis on the videos that have the highest number of views
 - **Video upload trend analysis**: An analysis on how many video uploads in the different Big Brother seasons
+- **Duration analysis**: An analysis on whether the duration of the video contributes to total views
 
 <sub>PowerBI dashboard can be downloaded here</sub><br/>
 <sub>The Python script can be found here</sub><br/>
@@ -34,10 +35,11 @@ During a process of data cleaning and data manipulation, additional columns were
 
 ## Executive Summary
 
-FSWG was established in 2017 and started getting traction in 2019 when she started uploading Big Brother review videos, then finally peaked in the year 2020. <br/>
+FSWG was established in 2017 and started gaining traction in 2019 when she started uploading Big Brother review videos, then finally peaked in the year 2020. <br/>
 Glory's audience engages more on Big Brother Naija (BBN) seasons compared to Big Brother Mzansi (BBM) seasons - TRY ADDING A METRIC <br/>
 The titles of her videos help her gain traffic to her channel, which improves her viewCount.<br/>
-The overall cahnnel performs well during the two BB seasons (South Africa and Nigeria). These Key Performance Indicators are discussed further in the report; and key improvement areas for the continuation of the channel are discussed as well. <br/>
+There is a drop in views for BBN review videos over the years which could be a huge concern for Glory's channel in future.<br/>
+The overall channel performs well during the two Big Brother seasons (South Africa and Nigeria). These Key Performance Indicators are discussed further in the report; and key improvement areas for the continuation of the channel are discussed as well. <br/>
 
 Below is an overview of the Power BI dashboard and additional graphs are included in the report. <br/>
 
@@ -47,14 +49,13 @@ Below is an overview of the Power BI dashboard and additional graphs are include
 ## Insights Deep Dive
 
 
-An overview of the data is that Glory's channel was created in 2017. Since then there have been over 3K video uploads to date, 359 000 subscribers and over 116 million views. There has been a lot of egagemnt on her videos where there has been more that 4 million likes and 893k comments.</br>
+_Frankly Speaking with Glory Elijah_ (FSWG) YouTube channel was created in 2017. More than 3K videos have been uploaded since then with a current number of subscribers at 359k. The channel has over 116 million views with over 4 million likes and 893k comments.</br>
 
 **Views trend analysis**: 
-- Since the creation of the channel in 2017 the channel views started increasing in July 2019 with views from 17 799 in June 2019 to 625 942 in July 2019.The channel made its first peak in July 2020 on the launch of Big Brother Naija Season 5. This was a Covid period where peoplew were encouraged to stay home (indoors)
-- We notice a trend during BB seasons that views increase at the start and peak of the show then drop again towards the end of the show.
-- Every year from 2021 the channel views peak in August during the BBN seasons
-- Since BBN aires from July to October we see a drop in views for the remaining months of the year. But, from 2022 there was a shift in views when Glory started uploading videos on the relaunched BBM Season 3.
-- This means that the FSWG channel gets high views in the months of Jan to April (BBM seasons) and July to October (BBN seasons)
+- Since the creation of the channel in 2017 the channel views started increasing 17 799 in June 2019 to 625 942 in July 2019.The channel made its first peak in July 2020 on the launch of Big Brother Naija Season 5. Views were possibly attributed by the Covid period where people were encouraged to stay indoors, so television and social media was all we had to keep ourselves busy at the time.
+- During BBN seasons the audience engage more with the channel in the first 2 months of the show (highest views in August), then views drop gradually towards the end of the show.
+- Since BBN aires from July to October we see a drop in views for the remaining months of each year. But, from 2022 there was a shift in views when Glory started uploading review videos/content on the relaunched Big Brother South Africa, otherwise known as _Big Brother Mzansi_.
+- This entails that the  channel performs well during BBM and BBN seasons which are from January to April and July to October respectively. 
 
 <img width="957" height="166" alt="image" src="https://github.com/user-attachments/assets/86bcff49-998e-49a4-90e1-a12eaf042e63" />
 
