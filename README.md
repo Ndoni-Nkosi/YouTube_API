@@ -63,20 +63,19 @@ _Frankly Speaking with Glory Elijah_ (FSWG) YouTube channel was created in 2017.
 **Video upload trend analysis**: 
 - Shows that are not Big Brother related have the most uploads with the category 'Other' at currently 703 uploads followed by BBN Season 6 with 306 uploads. The categories with less video uploads are BBM Season 5 and 4 with 123 uploads and 97 uploads, respectively.
 - The drop in total views for BBM seasons could be attributed to the low total video uploads
-- Low video uploads may be attributed to the fact that there is a language barrier as most of the time housemates in the BBM house speak in South African languages and Glory is from Nigeria
+- Glory could be uploading less review videos during BBM seasons due to a language barrier as most of the time housemates in the BBM house speak in South African languages and she is from Nigeria
 
 <img width="916" height="552" alt="image" src="https://github.com/user-attachments/assets/c08527d4-dd09-418e-8cf5-d8f098e32da6" />
 
 **Top videos**:
 - The most viewed videos are from BBN Season 6 with the highest view count of 532 347 - use % representation.
-- After BB seasons Glory does commentaries on the after BB life of housemates, movie reviews and trending reality shows such as _The real housewives of Lagos_ with the 'Other' category having top views for  'who is Big Brother?' at 212 164 views followed by _Acrimony_ movie review at 133 854 views
+- After BB seasons Glory does commentaries on the after BB life of housemates, movie reviews and trending reality TV shows such as _The real housewives of Lagos_ with the 'Other' category having top views for  'who is Big Brother?' at 212 164 views followed by _Acrimony_ movie review at 133 854 views
 - The views seem to be high due to the title of the videos. Since BB is known for having drama content, how Glory names her videos plays a role in how many views she will get for the upload. Verbs like fight, disqualified, kiss, etc in the title play a role in intriguing the viewer and getting their attention.
 
 **Duration analysis**:
 - The duration of the video does not dictate how many views one will get.
-- Longer video lengths with an average of 3000 (50 minutes) do not perform well compared to an average video length of 2000 (30 minutes).
 - Longer videos do not perform well in content that is not Big Brother as seen in the 'Other' category with an average video length of 3k (50 minutes), but the lowest average views at 13k views.
-- The channel performs better with uploading videos that are  2k seconds (30 minutes) as the average of views are high.
+- The channel performs better when uploading videos that are 2k seconds (30 minutes) as the average of views are high.
 
 
 ## Recommendations
