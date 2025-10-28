@@ -1,5 +1,8 @@
 # YouTube API project
-Big Brother is a reality show where contestants live in a house where they are constantly surveillanced and voted out by viewers in the end to win a cash prize. It is a show that has hit Africa by storm since its launch. Contestants come into the house and play whichever strategy they think will work for them to be the 'last man standing.' Strategies commonly played by contestants include, causing drama (conflict), creating alliances, being the chef or stylist of the house, start a romantic relationship with a fellow housemate ('shipping'), etc. It is popularly known for its drama and tests out social dynamics. The YouTube_API project aims to analyse data from one of the most viewed Big Brother reviewers/commentaries Frankly Speaking with Glory Elijah in Africa.
+
+Big Brother is a reality show where contestants live in a house where they are constantly surveilled and voted out by viewers in the end to win a cash prize. It is a show that has hit Africa by storm since its launch. Contestants come into the house and play whichever strategy they think will work for them to be the 'last person standing.' </br>
+Strategies commonly played by contestants include creating drama, forming alliances, taking on roles such as the house chef or stylist, and developing romantic relationships with fellow housemates (often referred to as 'shipping'). It is popularly known for its drama and explores social dynamics. </br>
+The YouTube_API project aims to analyse data from one of the most viewed Big Brother review/commentary channles in Africa, 'Frankly Speaking with Glory Elijah'.
 
 ## Table of Contents
 
@@ -12,22 +15,22 @@ Big Brother is a reality show where contestants live in a house where they are c
 
 ## Background and Overview
 
-Glory Elijah is a Nigerian content creator who reviews and comments on reality TV shows. She has a YouTube channel called 'Frankly Speaking with Glory Elijah'. The channel focuses on reviewing and commenting on entertainment shows such as _Big Brother Naija_ and _Big Brother Mzansi_, _The Real Housewives of Lagos_, _Young Famous and African_, etc, movies and trending topics on social media.
+Glory Elijah is a Nigerian content creator known for her reviews and commentary on reality TV shows. She runs a YouTube channel called "Frankly Speaking with Glory Elijah," where she focuses on discussing entertainment shows such as _Big Brother Naija_, _Big Brother Mzansi_, _The Real Housewives of Lagos_, _Young, Famous & African_, among others, as well as movies and trending topics on social media.
 
 Insights and recommendations are provided on the following key points:
 
-- **Views trend analysis**: An analysis on the historical views patterns in the channel and which genres/categories perform best
-- **Best performing videos**: An analysis on the videos that have the highest number of views
-- **Video upload trend analysis**: An analysis on how many video uploads in the different Big Brother seasons
-- **Duration analysis**: An analysis on whether the duration of the video contributes to total views
+- **Views Trend Analysis**: An analysis of historical viewing patterns on the channel and identifying which genres or categories perform best
+- **Best Performing Videos**: An analysis of the videos with the highest number of views
+- **Video Upload Trend Analysis**: An analysis of the number of video uploads during different Big Brother seasons.
+- **Duration Analysis**: An exploration of whether the length of the videos influences total views.
 
 <sub>PowerBI dashboard can be downloaded here</sub><br/>
 <sub>The Python script can be found here</sub><br/>
 
 ## Data Structure Overview
 
-The data was collected with the use of a YouTube API in Python. It extracted one table with the following columns, video_id, channelTitle, title, publish date, viewCount, likeCount, commentCount, and duration. The table consists of over 3000 rows.</br>
-During a process of data cleaning and data manipulation, additional columns were added to improve data storytelling such as duration in seconds, subscribers, Name_check to categorise the different Big Brother seasons.</br>
+The data was collected using the YouTube API in Python, resulting in a table that contains the following columns: video_id, channelTitle, title, publish date, viewCount, likeCount, commentCount, and duration. This table comprises over 3,000 rows.</br>
+During a process of data cleaning and data manipulation, additional columns were created to improve data storytelling. These columns include duration in seconds, subscribers, and a Name_check column to categorise the different Big Brother seasons.</br>
 
 <img width="392" height="211" alt="image" src="https://github.com/user-attachments/assets/1fd59054-2a52-4069-8e79-c551093e4be2" /><br/>
 
@@ -35,13 +38,13 @@ During a process of data cleaning and data manipulation, additional columns were
 
 ## Executive Summary
 
-FSWG was established in 2017 and started gaining traction in 2019 when she started uploading Big Brother review videos, then finally peaked in the year 2020. <br/>
+FSWG was established in 2017 and began gaining traction in 2019 with the release of Big Brother review videos, resulting in the channel peaking in 2020 <br/>
 Glory's audience engages more on Big Brother Naija (BBN) seasons compared to Big Brother Mzansi (BBM) seasons - TRY ADDING A METRIC <br/>
-The titles of her videos help her gain traffic to her channel, which improves her viewCount.<br/>
-There is a drop in views for BBN review videos over the years which could be a huge concern for Glory's channel in future.<br/>
-The overall channel performs well during the two Big Brother seasons (South Africa and Nigeria). These Key Performance Indicators are discussed further in the report; and key improvement areas for the continuation of the channel are discussed as well. <br/>
+The titles of her videos help her attract traffic to her channel, which improves her view counts.<br/>
+However, there has been a noticeable decline in views for BBN review videos over the years, which raises concerns about the future performance of Glory's channel.<br/>
+Overall, the channel performs well during both Big Brother seasons (South Africa and Nigeria). These Key Performance Indicators are discussed further in the report, along with key improvement areas to ensure the sustainability of the channel. <br/>
 
-Below is an overview of the Power BI dashboard and additional graphs are included in the report. <br/>
+Below is an overview of the Power BI dashboard, and supplementary graphs are included in the report. <br/>
 
 <img width="1316" height="737" alt="image" src="https://github.com/user-attachments/assets/acd9138e-d91d-4256-82f7-b434469c32df" />
 
