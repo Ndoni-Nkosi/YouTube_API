@@ -2,7 +2,9 @@
 
 Big Brother is a reality show where contestants live in a house where they are constantly surveilled and voted out by viewers in the end to win a cash prize. It is a show that has hit Africa by storm since its launch. Contestants come into the house and play whichever strategy they think will work for them to be the 'last person standing.' </br>
 Strategies commonly played by contestants include creating drama, forming alliances, taking on roles such as the house chef or stylist, and developing romantic relationships with fellow housemates (often referred to as 'shipping'). It is popularly known for its drama and explores social dynamics. </br>
-The YouTube_API project aims to analyse data from one of the most viewed Big Brother review/commentary channles in Africa, 'Frankly Speaking with Glory Elijah'.
+The YouTube_API project aims to analyse data from one of the most viewed Big Brother review/commentary channles in Africa, 'Frankly Speaking with Glory Elijah'.</br>
+**DISCLAIMER**
+_This project features a YouTube channel that contains titles and themes of a sexual nature. The content is presented for creative and analytical purposes only and may not be suitable for all audiences. Viewer discretion is advised._
 
 ## Table of Contents
 
@@ -69,6 +71,7 @@ _Frankly Speaking with Glory Elijah_ (FSWG) YouTube channel was created in 2017.
 - The decline in total views for the BBM seasons may be linked to the lower number of video uploads. Additionally, Glory could be uploading fewer review videos during the BBM seasons due to a language barrier, as most housemates in the BBM house communicate in South African languages, while she is from Nigeria.
 
 <img width="916" height="552" alt="image" src="https://github.com/user-attachments/assets/c08527d4-dd09-418e-8cf5-d8f098e32da6" />
+
 
 **Top videos**:
 
