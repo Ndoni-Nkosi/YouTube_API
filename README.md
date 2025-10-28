@@ -55,36 +55,39 @@ Below is an overview of the Power BI dashboard, and supplementary graphs are inc
 _Frankly Speaking with Glory Elijah_ (FSWG) YouTube channel was created in 2017. More than 3K videos have been uploaded since then with a current number of subscribers at 359k. The channel has over 116 million views with over 4 million likes and 893k comments.</br>
 
 **Views trend analysis**: 
-- Since the creation of the channel in 2017 the channel views started increasing 17 799 in June 2019 to 625 942 in July 2019.The channel made its first peak in July 2020 on the launch of Big Brother Naija Season 5. Views were possibly attributed by the Covid period where people were encouraged to stay indoors, so television and social media was all we had to keep ourselves busy at the time.
-- During BBN seasons the audience engage more with the channel in the first 2 months of the show (highest views in August), then views drop gradually towards the end of the show.
-- Since BBN aires from July to October we see a drop in views for the remaining months of each year. But, from 2022 there was a shift in views when Glory started uploading review videos/content on the relaunched Big Brother South Africa, otherwise known as _Big Brother Mzansi_.
-- This entails that the  channel performs well during BBM and BBN seasons which are from January to April and July to October respectively. 
+- Since the creation of the channel in 2017, the number of views increased significantly, from 17,799 in June 2019 to 625,942 in July 2019. The channel experienced its first major peak in July 2020 with the launch of _Big Brother Naija Season 5_. This surge in views was likely influenced by the COVID-19 pandemic, which led people to stay indoors and turn to television and social media for entertainment.
+- During the Big Brother Naija (BBN) seasons, audience engagement with the channel is highest in the first two months of the show, particularly peaking in August, before gradually declining towards the end of the season. 
+- Since BBN airs from July to October each year, there tends to be a drop in views in the remaining months. However, starting in 2022, there was a noticeable shift in viewership when Glory began uploading review videos and content related to the relaunched Big Brother South Africa, commonly known as Big Brother Mzansi.
+- This indicates that the channel performs well during the _Big Brother Mzansi_ (BBM) and _Big Brother Naija_ (BBN) seasons, which run from January to April and July to October, respectively.
 
 <img width="957" height="166" alt="image" src="https://github.com/user-attachments/assets/86bcff49-998e-49a4-90e1-a12eaf042e63" />
 
 
 **Video upload trend analysis**: 
-- Shows that are not Big Brother related have the most uploads with the category 'Other' at currently 703 uploads followed by BBN Season 6 with 306 uploads. The categories with less video uploads are BBM Season 5 and 4 with 123 uploads and 97 uploads, respectively.
-- The drop in total views for BBM seasons could be attributed to the low total video uploads
-- Glory could be uploading less review videos during BBM seasons due to a language barrier as most of the time housemates in the BBM house speak in South African languages and she is from Nigeria
+
+- Shows that are not related to Big Brother have the highest number of uploads in the 'Other' category, currently totaling 703 uploads. This is followed by _Big Brother Naija_ (BBN) Season 6, which has 306 uploads. The categories with fewer video uploads are _Big Brother Mzansi_ (BBM) Season 5 and Season 4, with 123 and 97 uploads, respectively. 
+- The decline in total views for the BBM seasons may be linked to the lower number of video uploads. Additionally, Glory could be uploading fewer review videos during the BBM seasons due to a language barrier, as most housemates in the BBM house communicate in South African languages, while she is from Nigeria.
 
 <img width="916" height="552" alt="image" src="https://github.com/user-attachments/assets/c08527d4-dd09-418e-8cf5-d8f098e32da6" />
 
 **Top videos**:
-- The most viewed videos are from BBN Season 6 with the highest view count of 532 347 - use % representation.
-- After BB seasons Glory does commentaries on the after BB life of housemates, movie reviews and trending reality TV shows such as _The real housewives of Lagos_ with the 'Other' category having top views for  'who is Big Brother?' at 212 164 views followed by _Acrimony_ movie review at 133 854 views
-- The views seem to be high due to the title of the videos. Since BB is known for having drama content, how Glory names her videos plays a role in how many views she will get for the upload. Verbs like fight, disqualified, kiss, etc in the title play a role in intriguing the viewer and getting their attention.
+
+- The most viewed videos are from BBN Season 6, which has the highest view count of 532,347 - use % representation.
+- After the BB seasons, Glory provides commentary on the post-BB lives of housemates, movie reviews, and trending reality TV shows such as _The Real Housewives of Lagos_. In the 'Other' category, the most popular video is titled "Who is Big Brother?" with 212,164 views, followed by her review of the movie _Acrimony_, which received 133,854 views.
+- The high view counts can be attributed to the titles of the videos. Since BB is known for its dramatic content, the way Glory titles her videos significantly influences the number of views she receives. Using engaging verbs such as "fight," "disqualified," "kiss," and others in the titles helps intrigue viewers and capture their attention.
 
 **Duration analysis**:
+
 - The duration of the video does not dictate how many views one will get.
-- Longer videos do not perform well in content that is not Big Brother as seen in the 'Other' category with an average video length of 3k (50 minutes), but the lowest average views at 13k views.
-- The channel performs better when uploading videos that are 2k seconds (30 minutes) as the average of views are high.
+- Longer videos do not perform well in content that is not Big Brother related, as seen in the 'Other' category, with an average video length of 3k (50 minutes), but the lowest average views at 13k views.
+- The channel performs better when uploading videos that are 2k seconds (30 minutes) as the average of views is high.
 
 
 ## Recommendations
-- Glory should try to upload more videos during the BBM seasons as there is a positive relationship between the total number of uploads and total views. More uploads result in more views. This will in turn increase he viewer base during those seasons.
-- Since the channel has low views after the Big Brother seasons, Glory can improve her views in those months by uploading commentary videos on trending movies (movies that are being watched by the masses), and more Netflix shows since the views are high for her reviews on Netflix shows.
-- The 'other' category videos should be between 1k and 2k seconds (16 and 33 minutes) in order to keep videos short and sweet and still maintain watchtime
+
+- Glory should aim to upload more videos during the _Big Brother Mzansi_ seasons, as there is a positive correlation between the number of uploads and total views. Increased uploads lead to higher view counts, which will help grow her viewer base during those seasons.
+- Since the channel has low views after the Big Brother seasons, Glory can improve her views in those months by uploading commentary videos on trending movies (movies that are popular among audiences), and focusing more on Netflix shows, as her reviews of Netflix content tend to receive high view counts.
+- Videos in the 'Other' category should ideally be between 1k and 2k seconds (16 to 33 minutes) long. This length keeps the videos engaging while also maintaining watch time.
 
 
 ## Contact
