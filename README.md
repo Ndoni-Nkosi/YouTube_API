@@ -41,7 +41,7 @@ During a process of data cleaning and data manipulation, additional columns were
 ## Executive Summary
 
 FSWG was established in 2017 and began gaining traction in 2019 with the release of Big Brother review videos, resulting in the channel peaking in 2020 <br/>
-Glory's audience engages more on Big Brother Naija (BBN) seasons compared to Big Brother Mzansi (BBM) seasons - TRY ADDING A METRIC <br/>
+Glory's audience engages more on _Big Brother Naija_ (BBN) seasons compared to _Big Brother Mzansi_ (BBM) seasons , as BBN accounts for 70.8% of total views<br/>
 The titles of her videos help her attract traffic to her channel, which improves her view counts.<br/>
 However, there has been a noticeable decline in views for BBN review videos over the years, which raises concerns about the future performance of Glory's channel.<br/>
 Overall, the channel performs well during both Big Brother seasons (South Africa and Nigeria). These Key Performance Indicators are discussed further in the report, along with key improvement areas to ensure the sustainability of the channel. <br/>
@@ -75,7 +75,7 @@ _Frankly Speaking with Glory Elijah_ (FSWG) YouTube channel was created in 2017.
 
 **Top videos**:
 
-- The most viewed videos are from BBN Season 6, which has the highest view count of 532,347 - use % representation.
+- The most viewed videos are from BBN Season 6, which has the highest view count of 532,347, which accounts for 0.45% of total views.
 - After the BB seasons, Glory provides commentary on the post-BB lives of housemates, movie reviews, and trending reality TV shows such as _The Real Housewives of Lagos_. In the 'Other' category, the most popular video is titled "Who is Big Brother?" with 212,164 views, followed by her review of the movie _Acrimony_, which received 133,854 views.
 - The high view counts can be attributed to the titles of the videos. Since BB is known for its dramatic content, the way Glory titles her videos significantly influences the number of views she receives. Using engaging verbs such as "fight," "disqualified," "kiss," and others in the titles helps intrigue viewers and capture their attention.
 
