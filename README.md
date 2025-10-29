@@ -1,9 +1,9 @@
 # YouTube API project
 
-Big Brother is a reality show where contestants live in a house where they are constantly surveilled and voted out by viewers in the end to win a cash prize. It is a show that has hit Africa by storm since its launch. Contestants come into the house and play whichever strategy they think will work for them to be the 'last person standing.' </br>
+Big Brother is a reality show where contestants live in a house where they are constantly surveilled and voted out by viewers in the end to win a cash prize. It is a show that has hit Africa by storm since its launch. Contestants come into the house and play whichever strategy they think will work for them to be the 'last person standing.'
 Strategies commonly played by contestants include creating drama, forming alliances, taking on roles such as the house chef or stylist, and developing romantic relationships with fellow housemates (often referred to as 'shipping'). It is popularly known for its drama and explores social dynamics. </br>
-The YouTube_API project aims to analyse data from one of the most viewed Big Brother review/commentary channles in Africa, 'Frankly Speaking with Glory Elijah'.</br>
-**DISCLAIMER**
+The YouTube_API project aims to analyse data from one of the most viewed Big Brother review/commentary channles in Africa, 'Frankly Speaking with Glory Elijah'.
+**DISCLAIMER**</br>
 _This project features a YouTube channel that contains titles and themes of a sexual nature. The content is presented for creative and analytical purposes only and may not be suitable for all audiences. Viewer discretion is advised._
 
 ## Table of Contents
@@ -26,8 +26,8 @@ Insights and recommendations are provided on the following key points:
 - **Video Upload Trend Analysis**: An analysis of the number of video uploads during different Big Brother seasons.
 - **Duration Analysis**: An exploration of whether the length of the videos influences total views.
 
-<sub>PowerBI dashboard can be downloaded here</sub><br/>
-<sub>The Python script can be found here</sub><br/>
+
+<sub>The Python script can be found in the attachments</sub><br/>
 
 ## Data Structure Overview
 
@@ -36,12 +36,11 @@ During a process of data cleaning and data manipulation, additional columns were
 
 <img width="392" height="211" alt="image" src="https://github.com/user-attachments/assets/1fd59054-2a52-4069-8e79-c551093e4be2" /><br/>
 
-<sub>The YouTube video on data collection, data cleaning and data manipulation can be found here</sub><br/>
 
 ## Executive Summary
 
-FSWG was established in 2017 and began gaining traction in 2019 with the release of Big Brother review videos, resulting in the channel peaking in 2020 <br/>
-Glory's audience engages more on _Big Brother Naija_ (BBN) seasons compared to _Big Brother Mzansi_ (BBM) seasons , as BBN accounts for 70.8% of total views<br/>
+FSWG was established in 2017 and began gaining traction in 2019 with the release of Big Brother review videos, resulting in the channel peaking in 2020. <br/>
+Glory's audience engages more on _Big Brother Naija_ (BBN) seasons compared to _Big Brother Mzansi_ (BBM) seasons , as BBN accounts for 70.8% of total views. <br/>
 The titles of her videos help her attract traffic to her channel, which improves her view counts.<br/>
 However, there has been a noticeable decline in views for BBN review videos over the years, which raises concerns about the future performance of Glory's channel.<br/>
 Overall, the channel performs well during both Big Brother seasons (South Africa and Nigeria). These Key Performance Indicators are discussed further in the report, along with key improvement areas to ensure the sustainability of the channel. <br/>
